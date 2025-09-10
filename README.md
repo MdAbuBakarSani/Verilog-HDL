@@ -28,5 +28,13 @@ Verilog HDL implementations of combinational and sequential circuits, including 
 
 # 👨‍💻 Author
 
-Md Abu Bakar Sani 🔗 LinkedIn Profile- (https://www.linkedin.com/in/md-abu-bakar-sani-448639177/)
+Md Abu Bakar Sani 
+
+Bachelor of Science (Honours), Electrical and Electronics Engineering
+
+Leading University
+
+Grade: 3.88
+
+🔗 LinkedIn Profile- (https://www.linkedin.com/in/md-abu-bakar-sani-448639177/)
 
