@@ -9,8 +9,8 @@ Verilog HDL implementations of combinational and sequential circuits, including 
 - Comparator ✅ Design Only
 
 ## 🔹 Sequential Circuits
-- Flip-Flops (SR, D, JK, T) → Design only
-- Counters (Synchronous & Asynchronous) → Design Only
-- Shift Registers → Design Only
-- Simple FSMs (Finite State Machines) → Design Only
+- Flip-Flops (SR, D, JK, T) ✅ Design only
+- Counters (Synchronous & Asynchronous) ✅ Design Only
+- Shift Registers ✅ Design Only
+- Simple FSMs (Finite State Machines) ✅ Design Only
 ---
