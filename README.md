@@ -20,7 +20,7 @@ Verilog HDL implementations of combinational and sequential circuits, including 
 
 ▪️ Waveform/Logs → Simulation results.
 
-# ⚙️ Tools Used
+# 🧰 Tools Used
 
 ▪️ Simulation Tools: Quartus Prime Lite.
 
