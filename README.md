@@ -1,8 +1,11 @@
 # Design and Verification using Verilog HDL
+
 # 📌 Overview
+
 Verilog HDL implementations of combinational and sequential circuits, including basic digital design modules and test examples. It covers all the Combinational and Sequential circuits. Each project includes RTL design, testbenches, and simulation results to demonstrate the complete design and verification flow.
 
 # 🎯 Objectives
+
 ▪️ Learn digital design using Verilog HDL.
 
 ▪️ Implement fundamental and advanced digital circuits.
@@ -16,3 +19,14 @@ Verilog HDL implementations of combinational and sequential circuits, including 
 ▪️ Testbench (.v) → Contains testbenches for verification.
 
 ▪️ Waveform/Logs → Simulation results.
+
+# ⚙️ Tools Used
+
+▪️ Simulation Tools: Quartus Prime Lite.
+
+▪️ Waveform Analysis: EDA Playground (online).
+
+# 👨‍💻 Author
+
+Md Abu Bakar Sani 🔗 LinkedIn Profile- linkedin.com/in/md-abu-bakar-sani-448639177
+
