@@ -1,16 +1,17 @@
-# Design and Verification using Verilog
-Verilog HDL implementations of combinational and sequential circuits, including basic digital design modules and test examples.
+# Design and Verification using Verilog HDL
+Verilog HDL implementations of combinational and sequential circuits, including basic digital design modules and test examples. It covers all the Combinational and Sequential circuits. Each project includes RTL design, testbenches, and simulation results to demonstrate the complete design and verification flow.
 
-## 🔹 Combinational Circuits
-- Half Adder ✅ Design Only 
-- Full Adder ✅ Design Only 
-- Multiplexer ✅ Design Only 
-- Decoder ✅ Design Only 
-- Comparator ✅ Design Only
+🎯 Objectives
+Learn digital design using Verilog HDL.
 
-## 🔹 Sequential Circuits
-- Flip-Flops (SR, D, JK, T) ✅ Design only
-- Counters (Synchronous & Asynchronous) ✅ Design Only
-- Shift Registers ✅ Design Only
-- Simple FSMs (Finite State Machines) ✅ Design Only
----
+Implement fundamental and advanced digital circuits.
+
+Develop testbenches for functional verification.
+
+Analyze simulation results using waveform viewers.
+
+RTL Code (.v) → Contains the Verilog design files.
+
+Testbench (.v) → Contains testbenches for verification.
+
+Waveform/Logs → Simulation results.
