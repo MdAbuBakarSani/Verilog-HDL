@@ -30,11 +30,11 @@ Verilog HDL implementations of combinational and sequential circuits, including 
 
 Md Abu Bakar Sani 
 
-Bachelor of Science (Honours), Electrical and Electronics Engineering
+Bachelor of Science in Electrical and Electronics Engineering
 
 Leading University
 
-Grade: 3.88
+Grade: 3.88 CGPA
 
 🔗 LinkedIn Profile- (https://www.linkedin.com/in/md-abu-bakar-sani-448639177/)
 
