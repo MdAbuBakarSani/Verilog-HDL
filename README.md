@@ -1,4 +1,4 @@
-# Verilog-HDL
+# Design and Verification using Verilog
 Verilog HDL implementations of combinational and sequential circuits, including basic digital design modules and test examples.
 
 ## 🔹 Combinational Circuits
